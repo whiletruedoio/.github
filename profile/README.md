@@ -1,7 +1,6 @@
-# while-true-do.io
-
-A project that provides development, infrastructure and community work for the
-sake of connecting people and contribute to Open Source projects.
+[while-true-do.io](https://while-true-do.io) is a project that provides
+development, infrastructure and community work for the sake of connecting people
+and contribute to other Open Source projects.
 
 ## Getting Started
 
