@@ -11,6 +11,9 @@ This file is the changelog of [organization](https://github.com/whiletruedoio/.g
 - Added: ISSUE_TEMPLATES
 - Added: profile README.md
 - Added: CHANGELOG.md
+- Added: README.md
+- Added: metafiles
+- Added: LICENSE
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 
