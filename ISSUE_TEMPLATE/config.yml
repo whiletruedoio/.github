@@ -1,0 +1,15 @@
+---
+# Reference: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests
+
+blank_issues_enabled: false
+
+contact_links:
+
+  - name: "Chat"
+    url: "https://web.libera.chat/gamja/#whiletruedo"
+    about: "I want to chat via IRC."
+
+  - name: "Mail"
+    url: "https://mailxto.com/qzrtnj"
+    about: "I want to send a mail."
+...
