@@ -5,7 +5,7 @@ contribution in form of reports, requests, discussions or every other bit, that
 will help to grow the project.
 
 We have some documents and repositories, that will get you started, if you want
-to join us. Please check out the below lists.
+to join us. Please check out the below options.
 
 - [Organizational topics](https://github.com/whiletruedoio/organization)
 - [Tools and services](https://github.com/whiletruedoio/tooling)
