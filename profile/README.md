@@ -1,3 +1,9 @@
+:santa: :snowman: :gift: :snowflake: :heart: 
+
+We want to thank every supporter and contributor. We wish everybody some
+wonderful vacation days and a happy new year. We are thrilled to work with you
+in 2022.
+
 ## Getting Started
 
 First off, thanks for taking time to contribute. We really appreciate every
