@@ -4,7 +4,7 @@
 
 # while-true-do.io
 
-Open Source - Development, Infrastructure, Community
+**Open Source - Development, Infrastructure, Community**
 
 [![Website URL](https://img.shields.io/static/v1?style=flat&label=Site&message=while-true-do.io)](https://while-true-do.io)
 [![Blog URL](https://img.shields.io/static/v1?style=flat&label=Blog&message=blog.while-true-do.io)](https://blog.while-true-do.io)
@@ -24,7 +24,10 @@ Open Source - Development, Infrastructure, Community
 
 Welcome to [while-true-do.io](https://while-true-do.io). Our goal is to provide
 Free/Libre Open Source contribution. The brand name comes from the idea, that
-you should do whatever can be done, as long as needed.
+you should do whatever can be done, as long as needed. Our core objectives are
+[Development](https://github.com/whiletruedoio/organization/blob/main/docs/PRD_GENERAL.md#development),
+[Infrastructure](https://github.com/whiletruedoio/organization/blob/main/docs/PRD_GENERAL.md#infrastructure)
+and [Community](https://github.com/whiletruedoio/organization/blob/main/docs/PRD_GENERAL.md#community).
 
 ## :rocket: Getting Started
 
@@ -38,6 +41,7 @@ documents and contact options.
 - [Tools and services](https://github.com/whiletruedoio/tooling)
 - [Code of Conduct](https://github.com/whiletruedoio/.github/blob/main/docs/CODE_OF_CONDUCT.md)
 - [Contribution Guideline](https://github.com/whiletruedoio/.github/blob/main/docs/CONTRIBUTING.md)
+- [Product Requirements Document](https://github.com/whiletruedoio/organization/blob/main/docs/PRD_GENERAL.md)
 
 Please also check out all
 [open Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Awhiletruedoio+label%3A%22help+wanted%22+archived%3Afalse)

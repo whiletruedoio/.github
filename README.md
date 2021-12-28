@@ -3,9 +3,14 @@ reference: https://www.makeareadme.com/
 reference: https://commonmark.org/
 -->
 
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/whiletruedoio/.github?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/.github/releases)
+[![GitHub issues](https://img.shields.io/github/issues/whiletruedoio/.github)](https://github.com/whiletruedoio/.github/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whiletruedoio/.github)](https://github.com/whiletruedoio/.github/pulls)
+[![GitHub license](https://img.shields.io/github/license/whiletruedoio/.github)](https://github.com/whiletruedoio/.github/blob/main/LICENSE)
+
 # .github
 
- Template files and descriptions for the while-true-do.io organization.
+Template files and descriptions for the while-true-do.io organization.
 
 ## Motivation
 
