@@ -3,6 +3,7 @@ reference: https://www.makeareadme.com/
 reference: https://commonmark.org/
 -->
 
+[![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/whiletruedoio/.github?logo=Cirrus-ci)](https://cirrus-ci.com/github/whiletruedoio/.github)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/whiletruedoio/.github?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/.github/releases)
 [![GitHub issues](https://img.shields.io/github/issues/whiletruedoio/.github)](https://github.com/whiletruedoio/.github/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/whiletruedoio/.github)](https://github.com/whiletruedoio/.github/pulls)
@@ -53,9 +54,7 @@ can find some entrypoints.
 ## Contribute
 
 Thank you so much for considering to contribute! We are happy, when someone is
-joining the hard work. Please have a look at the
-[Contributor Conventions](https://github.com/whiletruedoio/.github/blob/main/docs/CODE_OF_CONDUCT.md)
-beforehand.
+joining the hard work.
 
 ### Issues
 

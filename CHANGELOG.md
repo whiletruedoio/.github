@@ -16,6 +16,8 @@ This file is the changelog of [organization](https://github.com/whiletruedoio/.g
 - Added: LICENSE
 - Added: shields
 - Fixed: typos and wording
+- Added: ci/cd and sanity checks
+- Fixed: linting issues
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 
