@@ -37,13 +37,13 @@ will help to grow the project. We have some documents and repositories, that
 will get you started. If you want to join us, please check out the below
 documents and contact options.
 
-- [Organizational topics](https://github.com/whiletruedoio/organization)
-- [Tools and services](https://github.com/whiletruedoio/tooling)
 - [Code of Conduct](https://github.com/whiletruedoio/.github/blob/main/docs/CODE_OF_CONDUCT.md)
 - [Contribution Guideline](https://github.com/whiletruedoio/.github/blob/main/docs/CONTRIBUTING.md)
+- [Organizational topics](https://github.com/whiletruedoio/organization)
+- [Tools and services](https://github.com/whiletruedoio/tooling)
 - [Product Requirements Document](https://github.com/whiletruedoio/organization/blob/main/docs/PRD_GENERAL.md)
 
 Please also check out all
-[open Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Awhiletruedoio+label%3A%22help+wanted%22+archived%3Afalse)
+[open Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Awhiletruedoio+archived%3Afalse)
 and
 [open Pull Requests](https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3Awhiletruedoio+archived%3Afalse).

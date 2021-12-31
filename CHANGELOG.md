@@ -14,6 +14,8 @@ This file is the changelog of [organization](https://github.com/whiletruedoio/.g
 - Added: README.md
 - Added: metafiles
 - Added: LICENSE
+- Added: shields
+- Fixed: typos and wording
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 
