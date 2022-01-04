@@ -4,7 +4,8 @@ reference: https://keepachangelog.com
 
 # Changelog
 
-This file is the changelog of [organization](https://github.com/whiletruedoio/.github).
+This file is the changelog of
+[.github](https://github.com/whiletruedoio/.github).
 
 ## [Unreleased]
 
