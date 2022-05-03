@@ -77,14 +77,14 @@ by all committers or represented by an owner.
 
 A maintainer is able to design the direction and future of
 [while-true-do.io](https://while-true-do.io) directly through design decisions,
-creating objectives and guidance in general. Therefore the
-[general PRD](./PRD_GENERAL.md) A maintainer is also able to merge code into our
-baseline, if this is not handled from a SIG or an approved committer.
+creating objectives and guidance in general. A maintainer is also able to merge
+code into our baseline, if this is not handled from a SIG or an approved
+committer.
 
 A maintainer is responsible for a healthy community, quality of code and for
 [while-true-do.io](https://while-true-do.io) in general. Therefore, he must
-participate in the board [meetings](./MEETING.md) and represent the community in
-a transparent way.
+participate in the board meetings and represent the community in a transparent
+way.
 
 To become a maintainer you need to be elected in the yearly maintainer voting.
 If you want to be elected, it is enough to become a committer and
