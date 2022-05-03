@@ -19,6 +19,9 @@ This file is the changelog of
 - Fixed: typos and wording
 - Added: ci/cd and sanity checks
 - Fixed: linting issues
+- Migrated: Docs from organization repository
+- Restructured: all the docs
+- Updated: basically all documents
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 

@@ -11,7 +11,7 @@ reference: https://commonmark.org/
 
 # .github
 
-Template files and descriptions for the while-true-do.io organization.
+Documentation, template files and descriptions for while-true-do.io.
 
 ## Motivation
 

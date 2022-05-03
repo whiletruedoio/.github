@@ -1,0 +1,39 @@
+---
+# reference: https://www.mkdocs.org/
+
+site_url: "https://docs.while-true-do.io"
+site_name: "docs.while-true-do.io"
+site_description: "while-true-do.io Documentation"
+site_author: "while-true-do.io"
+copyright: "while-true-do.io"
+
+repo_url: "https://github.com/whiletruedoio"
+repo_name: "GitHub"
+
+theme:
+  name: "material"
+  highlightjs: "true"
+  titles_only: true
+  palette:
+    - scheme: "default"
+      primary: "teal"
+      toggle:
+        icon: "material/toggle-switch-variant"
+        name: "Switch to dark mode"
+    - scheme: "slate"
+      primary: "teal"
+      toggle:
+        icon: "material/toggle-switch-variant-off"
+        name: "Switch to light mode"
+
+extra:
+  social:
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/whiletruedoio"
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/whiletruedoio"
+    - icon: "fontawesome/brands/linkedin"
+      link: "https://www.linkedin.com/company/whiletruedoio"
+    - icon: "fontawesome/brands/docker"
+      link: "https://hub.docker.com/u/whiletruedoio"
+...

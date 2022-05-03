@@ -45,7 +45,9 @@ the below process.
 - **One Contribution** should solve an **issue**
 - **Tested** code is **cool** code
 - **Documented** code is **maintainable** code
-- **Commit Messages** should be meaningful and self explaining (see .gitmessage)
+- **Commit Messages** should be in
+  [Conventional Commit Format](https://www.conventionalcommits.org/)
+  (see .gitmessage)
 - **Rebase** before opening the pull request
 - **Changes** should be updated in a Changelog, if present
 

@@ -11,7 +11,7 @@ lint_markdown_task:
   container:
     image: "docker.io/library/node:latest"
   install_script: "npm install -g markdownlint-cli"
-  lint_script: "markdownlint *.md docs/*.md"
+  lint_script: "markdownlint **/*.md"
 
 lint_yaml_task:
   name: "Lint YAML"
@@ -19,4 +19,11 @@ lint_yaml_task:
     image: "docker.io/library/alpine:latest"
   install_script: "apk update && apk add yamllint"
   lint_script: "yamllint ."
+
+pages_task:
+  name: "Deploy pages"
+  container:
+    image: "docker.io/library/python:3"
+  install_script: "pip install --upgrade -r requirements.txt"
+  build_script: "mkdocs build"
 ...
