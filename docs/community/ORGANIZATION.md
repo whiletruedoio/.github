@@ -13,9 +13,10 @@ The below chart shows the general hierarchy or
 
 ## Groups
 
-At [while-true-do.io](while-true-do.io) we try to keep the complexity low. There
-are only 2 types of groups established. One is meant for the overall steering
-and the other type is intended to allow more flexibility for developers.
+At [while-true-do.io](https://while-true-do.io) we try to keep the complexity
+low. There are only 2 types of groups established. One is meant for the overall
+steering and the other type is intended to allow more flexibility for
+developers.
 
 ### Board
 
@@ -25,11 +26,9 @@ regarding the vision, mission and larger objectives. It is made up of an odd
 number of members (minimum 3, maximum 9). The board will be voted every year
 from all contributors.
 
-As a board member, you need to participate in all board
-[meetings](./MEETINGS.md). Additionally, at least one board member must be
-present at the community [meetings](./MEETING.md). Furthermore, board members
-must ensure that the community can work together and support them with resources
-and knowledge.
+As a board member, you need to participate in all board meetings.
+Furthermore, board members must ensure that the community can work together and
+support them with resources and knowledge.
 
 ### Special Interest Groups
 
@@ -39,8 +38,8 @@ maintainers of certain features or objective. To become a Special Interest
 Group, the following criteria must be met:
 
 - at least 3 committers, maintainers or owners reside in the SIG
-- there must be regular public [meetings](./MEETING.md) (once a month) to
-  discuss development
+- there must be regular public meeting (eg.: once a month) to discuss
+  progress and issues and gather feedback
 - the group must maintain a Product Requirements Document describing the purpose
   and value of the group
 - the group must publish a regular review of achieved features and goals
@@ -55,11 +54,10 @@ official SIG. This will allow the group to:
 
 No organizational patterns are proposed for these groups. You can organize
 yourself however you want, as long as you work towards the general goals as
-defined in the [Product Requirements Document](./PRD_GENERAL.md).
+defined in the [Introduction](../README.md).
 
 In case the group needs resources like compute power, storage, chat channels or
-mail groups, these can be self-organized or requested via the board
-[meetings](./MEETING.md).
+mail groups, these can be self-organized or requested via the board meetings.
 
 ## Members
 

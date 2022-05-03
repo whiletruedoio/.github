@@ -60,49 +60,49 @@ explicitly. The below color definitions should be applied, when possible.
 
 The chosen color palette is designed to be easy on the eyes and accessable.
 
-![overview](../../assets/colors/col_overview.png)
+![overview](../assets/colors/col_overview.png)
 
 ### Background
 
 A white (#eef0f0) color accent is used for backgrounds.
 
-![eef0f0](../../assets/colors/col_eef0f0.png)
+![eef0f0](../assets/colors/col_eef0f0.png)
 
 ### Foreground
 
 A black (#090509) color accent is used for fonts and foreground.
 
-![090509](../../assets/colors/col_090509.png)
+![090509](../assets/colors/col_090509.png)
 
 ### Primary
 
 Emerald (#2ece72) is our primary color accent color.
 
-![2ece72](../../assets/colors/col_2ece72.png)
+![2ece72](../assets/colors/col_2ece72.png)
 
 A darker variant is Emerald (#0eae50).
 
-![0eae50](../../assets/colors/col_0eae50.png)
+![0eae50](../assets/colors/col_0eae50.png)
 
 ### Secondary
 
 Turquoise (#1abcac) is our secondary accent color.
 
-![1abcac](../../assets/colors/col_1abcac.png)
+![1abcac](../assets/colors/col_1abcac.png)
 
 A darker variant is turquoise (#0a9c9c).
 
-![0a9c9c](../../assets/colors/col_0a9c9c.png)
+![0a9c9c](../assets/colors/col_0a9c9c.png)
 
 ### Shadow
 
 Grey (#959595) can be used for borders, shadows and seperations.
 
-![959595](../../assets/colors/col_959595.png)
+![959595](../assets/colors/col_959595.png)
 
 A darker variant is grey (#757575).
 
-![757575](../../assets/colors/col_757575.png)
+![757575](../assets/colors/col_757575.png)
 
 ## Typeface
 
