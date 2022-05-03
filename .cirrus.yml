@@ -20,10 +20,10 @@ lint_yaml_task:
   install_script: "apk update && apk add yamllint"
   lint_script: "yamllint ."
 
-pages_task:
-  name: "Deploy pages"
+build_pages_task:
+  name: "Build pages"
   container:
     image: "docker.io/library/python:3"
   install_script: "pip install --upgrade -r requirements.txt"
-  build_script: "mkdocs build"
+  build_script: "mkdocs build --strict"
 ...
