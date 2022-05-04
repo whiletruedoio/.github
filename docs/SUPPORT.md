@@ -24,12 +24,16 @@ Please be aware, that we do not offer any paid option or enterprise support plan
 for the provided products, software or services. You can use them at your own
 risk, without any warranty.
 
-## Chat
+## Communication
+
+![Communication Channels](./assets/communication.drawio.svg)
+
+### Chat
 
 The below chat rooms are open to all. Please feel free to join and ask
 questions.
 
-### Community
+#### Community
 
 For general purpose discussions and community related topics, you can use one of
 the below channels. This is also the best entry point.
@@ -48,35 +52,35 @@ find notifications for new blog articles, releases and community events.
 - [Telegram](https://t.me/whiletruedoio)
 - [Matrix #whiletruedoio-news:matrix.org](https://matrix.to/#/#whiletruedoio-news:matrix.org)
 
-### Development
+#### Development
 
 Development talk and notications are done in the development channels. There you
 will also get notifications about new Pull Requests, Issues and other.
 
 - [Matrix #whiletrueodio-development:matrix.org](https://matrix.to/#/#whiletruedoio-development:matrix.org)
 
-### Infrastructure
+#### Infrastructure
 
 Infrastructure talk and notifications are often done in the infrastructure
 channels. The monitoring will also notify this room if something goes sideways.
 
 - [Matrix #whiletruedoio-infrastructure:matrix.org](https://matrix.to/#/#whiletruedoio-infrastructure:matrix.org)
 
-### Meetings
+#### Meetings
 
 Our regular meetings are held in dedicated meeting channels to not spam the
 other channels.
 
 - [Matrix #whiletrueodio-meeting1:matrix.org](https://matrix.to/#/#whiletruedoio-meeting1:matrix.org)
 
-## Social Media
+### Social Media
 
 You can also find us on multiple social media networks.
 
 - [Twitter](https://twitter.com/whiletrueodio)
 - [LinkedIn](https://www.linkedin.com/company/whiletruedoio/)
 
-## Mail
+### Mail
 
 We offer mail contact options, for asynchronous and official communication.
 

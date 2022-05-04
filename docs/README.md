@@ -4,6 +4,8 @@ Welcome to [while-true-do.io](https://while-true-do.io)! We are group of people,
 that want to make the administration and usage of common internet services
 easier and more consumer friendly.
 
+![Why What How](./assets/why_what_how.drawio.png)
+
 ## Why are we doing this?
 
 If you want to know why we are doing this and what motivates us, this section
