@@ -20,10 +20,25 @@ lint_yaml_task:
   install_script: "apk update && apk add yamllint"
   lint_script: "yamllint ."
 
-build_pages_task:
-  name: "Build pages"
+test_pages_task:
+  name: "Test pages"
   container:
     image: "docker.io/library/python:3"
   install_script: "pip install --upgrade -r requirements.txt"
   build_script: "mkdocs build --strict"
+
+deploy_pages_task:
+  name: "Test pages"
+  only_if: "$CIRRUS_BRANCH == $CIRRUS_DEFAULT_BRANCH &&
+            $CIRRUS_TAG != '' &&
+            $CIRRUS_ENVIRONMENT != 'CLI'"
+  epends_on:
+    - "Lint Markdown"
+    - "Lint YAML"
+    - "Test Pages"
+  container:
+    image: "docker.io/library/python:3"
+  install_script: "pip install --upgrade -r requirements.txt"
+  build_script: "mkdocs build --strict"
+  deploy_script: "mkdocs gh-deploy --force"
 ...

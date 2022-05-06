@@ -7,8 +7,10 @@ site_description: "while-true-do.io Documentation"
 site_author: "while-true-do.io"
 copyright: "while-true-do.io"
 
-repo_url: "https://github.com/whiletruedoio"
+repo_url: "https://github.com/whiletruedoio/.github/"
 repo_name: "GitHub"
+
+edit_uri: "edit/main/docs/"
 
 theme:
   name: "material"
@@ -25,6 +27,10 @@ theme:
       toggle:
         icon: "material/toggle-switch-variant-off"
         name: "Switch to light mode"
+
+plugins:
+  - "search"
+  - "with-pdf"
 
 extra:
   social:

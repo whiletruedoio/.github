@@ -26,7 +26,8 @@ risk, without any warranty.
 
 ## Communication
 
-![Communication Channels](./assets/communication.drawio.svg)
+You can reach out to the community in various ways. The following channels are
+officially maintained.
 
 ### Chat
 
@@ -68,7 +69,7 @@ channels. The monitoring will also notify this room if something goes sideways.
 
 #### Meetings
 
-Our regular meetings are held in dedicated meeting channels to not spam the
+Our regular meetings are held in dedicated meeting channels to avoid spamming
 other channels.
 
 - [Matrix #whiletrueodio-meeting1:matrix.org](https://matrix.to/#/#whiletruedoio-meeting1:matrix.org)
