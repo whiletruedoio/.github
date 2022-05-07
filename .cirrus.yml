@@ -28,7 +28,7 @@ test_pages_task:
   build_script: "mkdocs build --clean --strict"
 
 deploy_pages_task:
-  name: "Test pages"
+  name: "Deploy Pages"
   only_if: "$CIRRUS_BRANCH == $CIRRUS_DEFAULT_BRANCH &&
             $CIRRUS_TAG != '' &&
             $CIRRUS_ENVIRONMENT != 'CLI'"
