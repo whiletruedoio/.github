@@ -46,7 +46,7 @@ deploy_pages_task:
   deploy_script: "mkdocs gh-deploy \
                   --clean \
                   --force \
-                  --remote-branch gh-pages\
+                  --remote-branch gh-pages \
                   --remote-name https://${DEPLOY_TOKEN}@github.com/\
                   whiletruedoio/.github.git"
 ...
