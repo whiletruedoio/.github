@@ -42,4 +42,6 @@ extra:
       link: "https://www.linkedin.com/company/whiletruedoio"
     - icon: "fontawesome/brands/docker"
       link: "https://hub.docker.com/u/whiletruedoio"
+    - icon: "fontawesome/solid/file-pdf"
+      link: "pdf/document.pdf"
 ...
