@@ -11,7 +11,7 @@ lint_markdown_task:
   container:
     image: "docker.io/library/node:latest"
   install_script: "npm install -g markdownlint-cli"
-  lint_script: "markdownlint *.md docs/*.md"
+  lint_script: "markdownlint **/*.md"
 
 lint_yaml_task:
   name: "Lint YAML"
@@ -19,4 +19,34 @@ lint_yaml_task:
     image: "docker.io/library/alpine:latest"
   install_script: "apk update && apk add yamllint"
   lint_script: "yamllint ."
+
+test_pages_task:
+  name: "Test pages"
+  container:
+    image: "docker.io/library/python:3"
+  install_script: "pip install --upgrade -r requirements.txt"
+  build_script: "mkdocs build --clean --strict"
+
+deploy_pages_task:
+  name: "Test pages"
+  only_if: "$CIRRUS_BRANCH == $CIRRUS_DEFAULT_BRANCH &&
+            $CIRRUS_TAG != '' &&
+            $CIRRUS_ENVIRONMENT != 'CLI'"
+  depends_on:
+    - "Lint Markdown"
+    - "Lint YAML"
+    - "Test Pages"
+  container:
+    image: "docker.io/library/python:3"
+  env:
+    DEPLOY_TOKEN: "ENCRYPTED[!31e8f490fe7c3e658db5eb42ee3225b4edcb1263339b53e06\
+                  f15b399528d96694f7fec9ccf8a0ab0c9399ab77580e25e!]"
+  install_script: "pip install --upgrade -r requirements.txt"
+  build_script: "mkdocs build --strict"
+  deploy_script: "mkdocs gh-deploy \
+                  --clean \
+                  --force \
+                  --remote-branch gh-pages\
+                  --remote-name https://${DEPLOY_TOKEN}@github.com/\
+                  whiletruedoio/.github.git"
 ...

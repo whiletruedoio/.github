@@ -1,5 +1,7 @@
 # reference: https://git-scm.com/docs/gitignore
 
+site/
+
 # ansible
 *.retry
 
