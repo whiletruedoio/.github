@@ -1,9 +1,5 @@
 # Contributing Guide
 
-[while-true-do.io](https://while-true-do.io) Code Contributing Guideline
-
-## Welcome
-
 First off, thanks for taking time to contribute. We really appreciate every
 contribution in form of reports, requests, discussions or every other bit, that
 will help to grow the project.

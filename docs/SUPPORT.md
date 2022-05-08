@@ -2,7 +2,7 @@
 
 We are really happy, that you want to reach out to us. In this document, you can
 find all official communication channels and contact options. Please choose one
-that is to your liking.
+that suits your needs.
 
 ## Guidelines
 
