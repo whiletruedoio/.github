@@ -1,5 +1,7 @@
+# Code of Conduct
 
-# Contributor Covenant Code of Conduct
+We are really happy, that you consider to work with the community. This document
+is meant to clarify the rules and guidelines for the community.
 
 ## Our Pledge
 
