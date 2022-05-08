@@ -42,7 +42,7 @@ the below channels. This is also the best entry point.
 - [Matrix #whiletrueodoio-community:matrix.org](https://matrix.to/#/#whiletruedoio-community:matrix.org)
 - [IRC #whiletrueodoio:libera.chat](https://web.libera.chat/gamja/#whiletruedo)
 
-For socialising and offtopic, you can use dedicated channels, but in general
+For socializing and off-topic, you can use dedicated channels, but in general
 you will also find memes and stuff in other channels.
 
 - [Matrix #whiletrueodoio-offtopic:matrix.org](https://matrix.to/#/#whiletruedoio-offtopic:matrix.org)
@@ -55,7 +55,7 @@ find notifications for new blog articles, releases and community events.
 
 #### Development
 
-Development talk and notications are done in the development channels. There you
+Development talk and notifications are done in the development channels. There you
 will also get notifications about new Pull Requests, Issues and other.
 
 - [Matrix #whiletrueodio-development:matrix.org](https://matrix.to/#/#whiletruedoio-development:matrix.org)

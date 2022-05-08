@@ -6,13 +6,6 @@ container:
   memory: "2G"
 
 # Sanity checks
-lint_markdown_task:
-  name: "Lint Markdown"
-  container:
-    image: "docker.io/library/node:latest"
-  install_script: "npm install -g markdownlint-cli"
-  lint_script: "markdownlint **/*.md"
-
 lint_yaml_task:
   name: "Lint YAML"
   container:
@@ -20,6 +13,26 @@ lint_yaml_task:
   install_script: "apk update && apk add yamllint"
   lint_script: "yamllint ."
 
+lint_markdown_task:
+  name: "Lint Markdown"
+  container:
+    image: "docker.io/library/node:latest"
+  install_script: "npm install -g markdownlint-cli"
+  lint_script: "markdownlint **/*.md"
+
+spellcheck_markdown_task:
+  name: "Spellcheck Markdown"
+  allow_failures: true
+  skip_notifications: true
+  container:
+    image: "docker.io/library/node:latest"
+  install_script: "npm install -g markdown-spellcheck"
+  check_script: "mdspell --report \
+                --ignore-numbers \
+                --ignore-acronyms \
+                --en-us **/*.md"
+
+# Test
 test_pages_task:
   name: "Test Pages"
   container:

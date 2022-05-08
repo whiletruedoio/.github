@@ -127,7 +127,7 @@ possibilities so other services can interact with it.
 Running an internet service like a website often means, that you will get
 thousands of options to change the text and picture, but nothing that helps you
 to track visitors or push your new articles to social media channels. A calendar
-can provide statistics about meetings or additional weather informations, too.
+can provide statistics about meetings or additional weather information, too.
 Including these options in a meaningful and user focused way should be
 considered for every new software piece.
 
