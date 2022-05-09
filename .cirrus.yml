@@ -22,8 +22,8 @@ lint_markdown_task:
 
 spellcheck_markdown_task:
   name: "Spellcheck Markdown"
-  allow_failures: true
-  skip_notifications: true
+  allow_failures: "true"
+  skip_notifications: "true"
   container:
     image: "docker.io/library/node:latest"
   install_script: "npm install -g markdown-spellcheck"
