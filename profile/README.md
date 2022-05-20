@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- markdownlint-disable-next-line MD013 -->
 <img src="https://github.com/whiletruedoio/.github/raw/main/docs/assets/logo/whiletruedoio_logo_light_round.png" width="300">
 
 # while-true-do.io
