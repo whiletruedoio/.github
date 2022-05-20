@@ -16,7 +16,7 @@ extra_css:
   - "stylesheets/extra.css"
 
 theme:
-  logo: "assets/logo/whiletruedoio_logo_trans.png"
+  logo: "assets/logo/whiletruedoio_logo_light_rounded.png"
   favicon: "assets/logo/favicon.png"
   name: "material"
   highlightjs: true
