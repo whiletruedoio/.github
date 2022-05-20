@@ -16,6 +16,8 @@ extra_css:
   - "stylesheets/extra.css"
 
 theme:
+  logo: "assets/logo/whiletruedoio_logo_trans.png"
+  favicon: "assets/logo/favicon.png"
   name: "material"
   highlightjs: true
   titles_only: true
@@ -36,10 +38,10 @@ theme:
         name: "Switch to light mode"
 
 markdown_extensions:
-  - meta
-  - attr_list
-  - pymdownx.betterem
-  - pymdownx.emoji
+  - "meta"
+  - "attr_list"
+  - "pymdownx.betterem"
+  - "pymdownx.emoji"
 
 plugins:
   - "search"
