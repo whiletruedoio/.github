@@ -45,7 +45,6 @@ markdown_extensions:
 
 plugins:
   - "search"
-  - "with-pdf"
   - "pdf-export"
 
 extra:
@@ -66,7 +65,4 @@ extra:
     - icon: "fontawesome/solid/comments"
       link: "https://matrix.to/#/#whiletruedoio-community:matrix.org"
       name: "while-true-do.io on Matrix"
-    - icon: "fontawesome/solid/file-pdf"
-      link: "pdf/document.pdf"
-      name: "PDF version"
 ...
