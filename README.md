@@ -103,5 +103,5 @@ beforehand.
 - Site: <https://while-true-do.io>
 - Blog: <https://blog.while-true-do.io>
 - Code: <https://github.com/whiletruedoio>
-- Chat: [libera.chat #whiletruedoio](https://web.libera.chat/gamja/#whiletruedo)
+- Chat: [Matrix](https://matrix.to/#/#whiletruedoio-community:matrix.org)
 - Mail: [hello@while-true-do.io](mailto:hello@while-true-do.io)

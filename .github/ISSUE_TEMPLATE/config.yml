@@ -6,8 +6,8 @@ blank_issues_enabled: false
 contact_links:
 
   - name: "Chat"
-    url: "https://web.libera.chat/gamja/#whiletruedo"
-    about: "I want to chat via IRC."
+    url: "https://matrix.to/#/#whiletruedoio-community:matrix.org"
+    about: "I want to chat via Matrix."
 
   - name: "Mail"
     url: "https://mailxto.com/qzrtnj"

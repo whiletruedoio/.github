@@ -2,18 +2,20 @@
 #
 # Thank you so much for your contribution! Below you can find the
 # pattern, some explanation and an example for a proper commit message.
-# Please also consider to update the CHANGELOG.md and to sign your commit.
+# Please also consider to update the CHANGELOG.md and to sign your
+# commit.
 #
 # reference: https://www.conventionalcommits.org/
 #
 #<--- pattern --------------------------------------------------------->
 #
-# (feat|fix|refact|docs): <SUBJECT>
+# feat|fix|refact|docs[(scope)]: <SUBJECT>
 #
 # The body, explains the change a little bit more. You can:
 #
-# - you can use
-# - bullet points
+# - use
+# - bullet
+# - points
 #
 # Adding a footer to address the issue is recommended.
 #
