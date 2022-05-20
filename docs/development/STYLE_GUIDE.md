@@ -42,9 +42,8 @@ and is reflecting the "while true do = infinite loop" idea.
 
 ### Logo and Marque
 
-The logo is made up of an [SVG file](../assets/logo/whiletruedoio_logo.svg) and
-is represented by the [PNG file](../assets/logo/whiletruedoio_logo_light.png) as
-shown below.
+The logo is made up of an SVG file and is represented by a
+[PNG file](../assets/logo/whiletruedoio_logo_light.png) as shown below.
 
 ![Logo light](../assets/logo/whiletruedoio_logo_light.png)
 
