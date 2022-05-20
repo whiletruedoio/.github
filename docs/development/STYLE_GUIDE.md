@@ -42,11 +42,16 @@ and is reflecting the "while true do = infinite loop" idea.
 
 ### Logo and Marque
 
-<!-- TODO: Provide the Icon and Typography for the logo -->
+The logo is made up of an SVG file and is represented by a
+[PNG file](../assets/logo/whiletruedoio_logo_light.png) as shown below.
+
+![Logo light](../assets/logo/whiletruedoio_logo_light.png)
 
 ### Logo Variations
 
-<!-- TODO: Provide Variations in background and orientation -->
+- [Favicon](../assets/logo/favicon.png)
+- [Transparent Background](../assets/logo/whiletruedoio_logo_trans.png)
+- [Light Background](../assets/logo/whiletruedoio_logo_light.png)
 
 ### Logo Placement
 

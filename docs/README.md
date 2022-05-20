@@ -6,7 +6,7 @@ easier and more consumer friendly.
 
 ![Why What How](./assets/why_what_how.drawio.png)
 
-## Why are we doing this?
+## :heart: Why are we doing this?
 
 If you want to know why we are doing this and what motivates us, this section
 may be right for you. If not, we suggest to read it anyway and see if you can
@@ -46,7 +46,7 @@ software is not even supported.
 That is something we want to solve at
 [while-true-do.io](https://while-true-do.io).
 
-## What are we doing?
+## :star: What are we doing?
 
 Developing and providing tools that help you to avoid the massive complexity
 that you will face, either by maintaining hundreds of accounts or by hosting
@@ -100,7 +100,7 @@ insights and guidance, if you want to learn more.
 The community work is explained in more details in the
 [SIG Community](./community/SIG_COMMUNITY.md).
 
-## How are we doing this?
+## :hammer: How are we doing this?
 
 You may ask: "How are you doing this now?" or "Are there any paradigms, you
 are following?". It's good that you ask. This section explains our mindset,

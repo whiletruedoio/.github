@@ -5,17 +5,26 @@ site_url: "https://docs.while-true-do.io"
 site_name: "docs.while-true-do.io"
 site_description: "while-true-do.io Documentation"
 site_author: "while-true-do.io"
-copyright: "while-true-do.io"
+copyright: "&copy 2022 - while-true-do.io"
 
 repo_url: "https://github.com/whiletruedoio/.github/"
 repo_name: "GitHub"
 
 edit_uri: "edit/main/docs/"
 
+extra_css:
+  - "stylesheets/extra.css"
+
 theme:
+  logo: "assets/logo/whiletruedoio_logo_trans.png"
+  favicon: "assets/logo/favicon.png"
   name: "material"
-  highlightjs: "true"
+  highlightjs: true
   titles_only: true
+  features:
+    - "navigation.instant"
+    - "navigation.tracking"
+    - "navigation.top"
   palette:
     - scheme: "default"
       primary: "teal"
@@ -28,20 +37,32 @@ theme:
         icon: "material/toggle-switch-variant-off"
         name: "Switch to light mode"
 
+markdown_extensions:
+  - "meta"
+  - "attr_list"
+  - "pymdownx.betterem"
+  - "pymdownx.emoji"
+
 plugins:
   - "search"
-  - "with-pdf"
+  - "pdf-export"
 
 extra:
+  generator: false
   social:
     - icon: "fontawesome/brands/twitter"
       link: "https://twitter.com/whiletruedoio"
+      name: "while-true-do.io on Twitter"
     - icon: "fontawesome/brands/github"
       link: "https://github.com/whiletruedoio"
+      name: "while-true-do.io on GitHub"
     - icon: "fontawesome/brands/linkedin"
       link: "https://www.linkedin.com/company/whiletruedoio"
+      name: "while-true-do.io on LinkedIn"
     - icon: "fontawesome/brands/docker"
       link: "https://hub.docker.com/u/whiletruedoio"
-    - icon: "fontawesome/solid/file-pdf"
-      link: "pdf/document.pdf"
+      name: "while-true-do.io on Docker Hub"
+    - icon: "fontawesome/solid/comments"
+      link: "https://matrix.to/#/#whiletruedoio-community:matrix.org"
+      name: "while-true-do.io on Matrix"
 ...

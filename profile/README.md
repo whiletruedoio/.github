@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- TODO: logo in 200x200 here -->
+<img src="../docs/assets/logo/whiletruedoio_logo_light.png" width="300">
 
 # while-true-do.io
 

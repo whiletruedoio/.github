@@ -1,0 +1,11 @@
+[data-md-color-scheme="whiletruedoio"] {
+  --md-primary-fg-color: #0a9c9c;
+  --md-primary-fg-color--light: #0a9c9c;
+  --md-primary-fg-color--dark:  #0a9c9c;
+}
+[data-md-color-scheme="whiletruedoio-dark"] {
+  --md-primary-fg-color: #0a9c9c;
+  --md-primary-fg-color--light: #0a9c9c;
+  --md-primary-fg-color--dark:  #0a9c9c;
+  --md-hue: 210;
+}

@@ -4,13 +4,13 @@ We are really happy, that you want to reach out to us. In this document, you can
 find all official communication channels and contact options. Please choose one
 that suits your needs.
 
-## Guidelines
+## :book: Guidelines
 
 Before getting in touch with, we ask you to acknowledge our
 [Code of Conduct](./CODE_OF_CONDUCT.md) and our
 [Contributing Guide](./CONTRIBUTING.md).
 
-## Support
+## :hammer: Support
 
 In case you need help, please check the below options and choose the one most
 suitable for you. The most convenient way to interact with us is via issues.
@@ -24,7 +24,7 @@ Please be aware, that we do not offer any paid option or enterprise support plan
 for the provided products, software or services. You can use them at your own
 risk, without any warranty.
 
-## Communication
+## :bell: Communication
 
 You can reach out to the community in various ways. The following channels are
 officially maintained.
