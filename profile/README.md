@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="../docs/assets/logo/whiletruedoio_logo_light.png" width="300">
+<img src="https://github.com/whiletruedoio/.github/raw/main/docs/assets/logo/\
+whiletruedoio_logo_light_round.png" width="300">
 
 # while-true-do.io
 
