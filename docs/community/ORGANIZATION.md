@@ -3,11 +3,11 @@
 This document describes our organization. It should give a brief overview
 how we are working on things and where you might need to reach out to.
 
-## Diagram
+## :paperclip: Diagram
 
 ![Organization Diagram](../assets/organization.drawio.svg)
 
-## Contributors
+## :star: Contributors
 
 Basically everybody who helps the project is a contributor. We even see users
 as valuable contributors. In case you raise a question, report a bug or
@@ -16,7 +16,7 @@ request a feature, you are already contributing to the project.
 Let us thank you for your contribution. It is lovely to have you in our
 community.
 
-## Special Interest Groups
+## :muscle: Special Interest Groups
 
 Every group of contributors can form a Special Interest Group (SIG). If you are
 into Design, Blogging, Container, or whatever helps the project moving forward,
@@ -37,7 +37,7 @@ A SIG must follow some rules to be created and seen as maintained:
 After the approval, a SIG can start with the work. There will be an initial
 Meeting with the Board and one other SIG to discuss the next steps and demand.
 
-## Board
+## :dart: Board
 
 The board is made up of permanent SIG members and represents the project. It
 is meant as a challenger for ideas, menthor and advisor for the SIGs. In
