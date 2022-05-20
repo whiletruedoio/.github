@@ -9,9 +9,9 @@
    id="svg5"
    sodipodi:docname="whiletruedoio_logo.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   inkscape:export-filename="whiletruedoio_logo_light.png"
-   inkscape:export-xdpi="105.83"
-   inkscape:export-ydpi="105.83"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="27.09"
+   inkscape:export-ydpi="27.09"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -33,8 +33,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.6819304"
-     inkscape:cx="201.8514"
-     inkscape:cy="230.98459"
+     inkscape:cx="195.31129"
+     inkscape:cy="231.57914"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -54,6 +54,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5.14674;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path302"
+       cx="59.504398"
+       cy="59.481361"
+       rx="56.783127"
+       ry="56.830753" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3.96939;stroke-linecap:round;stroke-dasharray:none;image-rendering:auto"
        id="path61"
@@ -67,7 +74,7 @@
        sodipodi:open="true"
        sodipodi:arc-type="arc"
        d="m -11.589992,-57.044101 a 15.024858,15.195807 0 0 1 -14.253162,12.118258 15.024858,15.195807 0 0 1 -14.962431,-11.209647 15.024858,15.195807 0 0 1 7.308791,-17.320883 15.024858,15.195807 0 0 1 18.354591,3.170672"
-       transform="matrix(-0.69806434,0.71603504,-0.69806434,-0.71603504,0,0)" />
+       transform="matrix(-0.69806434,0.71603505,-0.69806434,-0.71603505,0,0)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3.97185;stroke-linecap:round;stroke-dasharray:none"
        id="path63"
