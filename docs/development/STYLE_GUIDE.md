@@ -22,6 +22,10 @@ The name of the project is [while-true-do.io](https://while-true-do.io). In
 written Text the name should always link to our official website
 <https://while-true-do.io>.
 
+The origin of the name is a reference to infinite loops in programming
+languages. It means, that we want to continue doing things, learning new things
+and support the community as long as possible.
+
 ### Slogan
 
 Our slogan is: **Open Source - Development, Infrastructure, Community**
@@ -33,6 +37,9 @@ written below.
 
 > Make Internet Services as simple as Smartphone Apps, accessible for everybody
 > and easy to deploy and maintain.
+
+This summarizes our ideals and goals and should be "punchy" enough for most
+media.
 
 ## Logo
 
@@ -49,13 +56,34 @@ The logo is made up of an SVG file and is represented by a
 
 ### Logo Variations
 
+We are maintaining the following variations of the logo.
+
 - [Favicon](../assets/logo/favicon.png)
 - [Transparent Background](../assets/logo/whiletruedoio_logo_trans.png)
 - [Light Background](../assets/logo/whiletruedoio_logo_light.png)
+- [Light Background Round](../assets/logo/whiletruedoio_logo_light_round.png)
 
 ### Logo Placement
 
-<!-- TODO: Define how the logo should be used and separated -->
+The logo files should be used "as is" and should not be modified or combined
+with extra text or images. It boils down to "As long as it is clearly to see
+that the Logo relates to [while-true-do.io](https://while-true-do.io), it is
+fine".
+
+Below, you can find some examples for good and bad use of the logo.
+
+#### Good
+
+- Avatar for various online services, where the profile name clearly identifies
+  the organization.
+- Embedded in a an image, where the logo is clearly visible.
+
+#### Bad
+
+- Combined with other brands, where it is hard to distinguish the logos from
+  each other.
+- Transformed (reflected, rotated, squeezed, etc.) to make it look like a
+  different brand.
 
 ## Colors
 
